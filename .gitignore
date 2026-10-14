@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.deps/
+
+# 打包
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
